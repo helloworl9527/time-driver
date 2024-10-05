@@ -14,5 +14,4 @@ def main():
         print("等待15秒")
     print("结束运行:", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
 
-if __name__ == '__main__':
-    main()
+main()
