@@ -36,7 +36,7 @@ def Post(license_id,region_id,price_per_month,minimum_stay_month,desc):
         "region": "美区",
         "price_per_month": Pm,
         "minimum_stay_month": msm,
-        "is_hide_contact": True,
+        "is_hide_contact": False,
         "expired_days": 14,
         "desc": dc,
         "contact_email": "",
