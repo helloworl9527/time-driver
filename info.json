@@ -26,6 +26,12 @@
         "price_per_month": "25",
         "minimum_stay_month": 1,
         "desc": "Midjourney 30美元套餐(10人车）,无限制绘图，可走闲鱼交易，拉微信群，长期车。"
+    },
+    {
+        "license_id": "1",
+        "region_id": "999",
+        "price_per_month": "5",
+        "minimum_stay_month": 2,
+        "desc": "Netflix季付45元/43元不限制设备/禁止TV端观看,老车补人，10月31日上车"
     }
-
 ]
