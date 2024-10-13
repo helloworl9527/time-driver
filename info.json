@@ -10,7 +10,7 @@
         "license_id": "5",
         "region_id": "999",
         "price_per_month": "5",
-        "minimum_stay_month": 5,
+        "minimum_stay_month": 2,
         "desc": "美国/港区/日本家庭组，现在付13元用到12月31日，可走闲鱼，拉微信群，翻车按比例退款，提前下车不退款"
     },
     {
@@ -25,13 +25,13 @@
         "region_id": "999",
         "price_per_month": "25",
         "minimum_stay_month": 1,
-        "desc": "Midjourney 30美元套餐(10人车）,无限制绘图，可走闲鱼交易，拉微信群，长期车。"
+        "desc": "Midjourney 30美元套餐,无限制绘图，可走闲鱼交易，拉微信群，长期车。"
     },
     {
         "license_id": "1",
         "region_id": "999",
         "price_per_month": "5",
         "minimum_stay_month": 2,
-        "desc": "Netflix季付45元/43元不限制设备/禁止TV端观看,老车补人，10月31日上车"
+        "desc": "Netflix季付45元不限制设备"
     }
 ]
