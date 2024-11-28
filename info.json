@@ -21,10 +21,10 @@
         "desc": "Midjourney 30美元套餐,无限制绘图，拉微信群，长期车。"
     },
     {
-        "license_id": "999",
+        "license_id": "1",
         "region_id": "999",
         "price_per_month": "5",
-        "minimum_stay_month": 12,
-        "desc": "HBO MAX，年付100元，拉微信群，提前下车不退款，翻车按比例退款，4k最高级套餐"
+        "minimum_stay_month": 3,
+        "desc": "Netflix季付45元,不限制设备,TV可看,老车补人"
     }
 ]
