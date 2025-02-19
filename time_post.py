@@ -44,7 +44,7 @@ def Post(license_id,region_id,price_per_month,minimum_stay_month,desc):
         "leftDrawerOpen": True,
         "regionOptions": ["所有地区","国区","港区","台区","日区","美区","土区","其他区"],
         "licenseOptions": ["所有服务","Netflix","Spotify Premium","ChatGPT Plus","Surge","1Password","Youtube Premium","Youtube TV","Apple Music","Setapp","Office365","TIDAL","Disney+","Hulu","HBO Now","HBO Go","KKBox","端传媒","其他"],
-        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvZGFpeGlhaHUuY29cL2F1dGhcL2FmdGVyX2xvZ2luIiwiaWF0IjoxNzI1NzgxMzIzLCJleHAiOjM2MTkxOTY4ODMsIm5iZiI6MTcyNTc4MTMyMywianRpIjoiVnBKSTVtaE1abEFyWno0ciIsInN1YiI6MTE3OTksInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.51RcrGRvOEX8ks2Zi9aCcqFcTs6dvVw35pmTGajRVS4",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvZGFpeGlhaHUuY29cL2F1dGhcL2FmdGVyX2xvZ2luIiwiaWF0IjoxNzM5OTM3MTI4LCJleHAiOjM2MzMzNTI2ODgsIm5iZiI6MTczOTkzNzEyOCwianRpIjoiU09wUlM4QmxqZ3RKVjlySSIsInN1YiI6MTMyOTAsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.TPyWpP5WQpcUDYoRR9OJddE26JgHMw1j93uR21tQM1c",
         "region_id": Rid,
         "license_id": Lid
     }
